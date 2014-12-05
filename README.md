@@ -1,4 +1,4 @@
-# Farmmeme
+# Farmeme
 Farm-related meme aggregator for farmers
 
 brought to you by: **Benjamin Graner** & **Gregory Tandiono**
